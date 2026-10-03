@@ -22,14 +22,6 @@ h1 {
     background-color: #fff3cd;
 }
 
-button {
-    background-color: green;
-    color:white;
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-}
-
 body {
     background-color: #ffe4c4;
     font-family: Arial, sans-serif;
@@ -75,6 +67,8 @@ th, td {
         background-color: #4CAF50;
         color: white;
         padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
         cursor: pointer;
     }
 
